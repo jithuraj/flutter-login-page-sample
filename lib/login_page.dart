@@ -12,7 +12,7 @@ class LoginPage extends StatelessWidget {
       body: Column(
         children: [
           Text(
-            'hai',
+            'click me',
           )
         ],
       ),
