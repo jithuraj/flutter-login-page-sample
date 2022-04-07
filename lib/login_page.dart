@@ -9,7 +9,13 @@ class LoginPage extends StatelessWidget {
       appBar: AppBar(
         title: Text('Login'),
       ),
-      body: Column(),
+      body: Column(
+        children: [
+          Text(
+            'hai',
+          )
+        ],
+      ),
     );
   }
 }
